@@ -25,7 +25,6 @@ export default function Header() {
           <a href="/products" className="text-gray-200 hover:text-blue-400 transition">Les oeuvres</a>
           <a href="/artist" className="text-gray-200 hover:text-blue-400 transition">Nos artistes</a>
           <a href="/artist_enterprise" className="text-gray-200 hover:text-blue-400 transition">Artiste en entreprise</a>
-          <a href="artit_decoration" className="text-gray-200 hover:text-blue-400 transition">Decoration / Commerce</a>
           <a href="/blog" className="text-gray-200 hover:text-blue-400 transition">Sub Rosa Art mag</a>
           <a href="/about" className="text-gray-200 hover:text-blue-400 transition">Qui sommes-nous</a>
           <a href="/contact" className="text-gray-200 hover:text-blue-400 transition">Contact</a>
